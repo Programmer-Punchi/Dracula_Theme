@@ -56,7 +56,7 @@ http://zenorocha.mit-license.org
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b3b3b3</string> <!-- 2020/07/08、変更-->
+				<string>#b3b3b3</string> <!-- 2020/07/08、コメントの色を変更 -->
 				<key>fontStyle</key>
 				<string></string>
 			</dict>
@@ -228,7 +228,7 @@ http://zenorocha.mit-license.org
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#7fffd4</string> <!-- 2020/07/08、#ff79c6から変更 -->
+				<string>#7fffd4</string> <!-- 2020/07/08、タグ内の文字色を#ff79c6から変更 -->
 			</dict>
 		</dict>
 		<dict>
