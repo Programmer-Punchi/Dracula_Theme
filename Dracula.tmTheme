@@ -23,7 +23,7 @@ http://zenorocha.mit-license.org
 				<key>foreground</key>
 				<string>#F8F8F2</string>
 				<key>invisibles</key>
-				<string>#5a5a5a</string> <!-- 2020/07/08、#3b3a32から変更、これを変更すると「・(バレット)」の色を変更できる -->
+				<string>#b3b3b3</string> <!-- 2020/07/08、#3b3a32から変更、これを変更すると「・(バレット)」の色を変更できる -->
 				<key>lineHighlight</key>
 				<string>#3E3D32</string>
 				<key>selection</key>
